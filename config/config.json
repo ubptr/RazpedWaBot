@@ -1,0 +1,9 @@
+{
+    "name": "Razped WaBot",
+    "author": "UllungArt",
+    "port": 30001,
+    "prefix": "!",
+    "timezone": "Asia/Makassar",
+    "groups": true,
+    "log": true
+}
